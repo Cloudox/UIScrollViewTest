@@ -7,7 +7,6 @@
 //
 
 #import "ViewController.h"
-#import "ViewInScroll.h"
 
 @interface ViewController ()
 
